@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  hr {
+    width: 5%;
+    background-color: #ff5e008a;
+  }
+  
+  .wrapper {
+    padding: 20px;
+    text-align: center;
+    background-color: #ae846b;
+  }
+
+  .ImportantLink {
+    text-align: center;
+  }
+  
+  .ImportantLink li {
+    display: inline;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+
+  .ImportantLink a {
+    text-decoration: none;
+  }
+  
+  .txt-color {
+    color: black;
+  }
+  
+  footer {
+    text-align: center;
+    border: 2px solid rgb(174 132 107);
+    background-color: rgb(174 132 107 / 54%);
+  }
+  
+  .copyright {
+    text-align: center;
+    font-size: smaller;
+  }
+  
